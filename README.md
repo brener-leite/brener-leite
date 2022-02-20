@@ -1,6 +1,6 @@
 <h2>Hey, I'm Brener Leite...</h2>
 <p>... and I'm a Brazilian software developer that is currently working as a front-end dev. Down below, you can check more details about my experience.</p>
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brener-leite&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brener-leite&theme=gotham&layout=compact&langs_count=5" />
 </div>
