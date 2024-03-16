@@ -1,5 +1,5 @@
 <h2>Hi, I'm Brener Leite...</h2>
-<p>... and I'm a Brazilian software developer that is currently working as a front-end dev. Down below, you can check more details about my experience.</p>
+<p>... and I'm a Brazilian software developer with extensive experience in frontend technologies, and I'm also learning .NET (dotnet). Below, you can find more details about my experience.</p>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brener-leite&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brener-leite&theme=gotham&layout=compact&langs_count=6" />
